@@ -15,4 +15,4 @@ Contents:
 
 Supplemental Table 1 is a master dataset containing all the data used in the paper. 
 
-Supplemental Table 2 is identical to Table 5 in the paper. 
+Supplemental Table 2 is identical to Table 5 in the paper, re-formatted for readibility. 
