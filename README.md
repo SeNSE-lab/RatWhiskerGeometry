@@ -1,5 +1,5 @@
 
-<img src="docs/ratWhiskerGeometry.jpg" height="346" width="1210px" >
+<img src="docs/ratWhiskerGeometry.png" height="346" width="1210px" >
 
 # RatWhiskerGeometry
 
