@@ -1,11 +1,11 @@
 
-<img src="docs/ratWhiskerGeometry.png" height="346" width="1210px" >
+<img src="docs/ratWhiskerGeometry.png" height="173" width="605px" >
 
 # Rat Whisker Geometry: download the 2D geometry of over 500 rat whiskers
 
-Please cite the following article when using these data: Belli, HM, Yang AET, Bresee CS, and Hartmann MJZ (2016) Variations in vibrissal geometry across the rat mystacial pad: base diameter, medulla, and taper. Journal of Neurophysiology. doi: 10.1152/jn.00054.2016
-
 [Belli et al. (2016)](https://journals.physiology.org/doi/full/10.1152/jn.00054.2016) performed a meta-analysis of the geometric properties of rodent whiskers from seven different studies (over 500 whiskers).  All data are available for download, as well as equations for whisker geometric parameters as functions of row and column position within the array. If you have more data that we can include Supplemental Table 1, please let us know.
+
+Please cite the following article when using these data: Belli, HM, Yang AET, Bresee CS, and Hartmann MJZ (2016) Variations in vibrissal geometry across the rat mystacial pad: base diameter, medulla, and taper. Journal of Neurophysiology. doi: 10.1152/jn.00054.2016
   
 [Supplemental Table 1](https://github.com/SeNSE-lab/RatWhiskerGeometry/blob/master/SupplementalTable_1.csv) is a comprehensive dataset containing all the data used in the paper. 
 
