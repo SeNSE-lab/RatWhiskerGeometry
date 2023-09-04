@@ -1,7 +1,7 @@
 
 <img src="docs/ratWhiskerGeometry.png" height="346" width="1210px" >
 
-# RatWhiskerGeometry
+# Rat Whisker Geometry: download the 2D geometry of over 500 rat whiskers
 
 Please cite the following article when using these data: Belli, HM, Yang AET, Bresee CS, and Hartmann MJZ (2016) Variations in vibrissal geometry across the rat mystacial pad: base diameter, medulla, and taper. Journal of Neurophysiology. doi: 10.1152/jn.00054.2016
 
